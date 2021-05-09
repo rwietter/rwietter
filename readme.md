@@ -33,10 +33,6 @@
 </p>
 <p><strong>⇒ Shell:</strong> ZSH
 </p>
-<p><strong>⇒ Uptime:</strong> up 7 hours, 43 minutes
-</p>
-<p><strong>⇒ Used Mem:</strong> 2,8Gi
-</p>
 
 <hr/>
 
