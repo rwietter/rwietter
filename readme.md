@@ -31,13 +31,13 @@
 <p><strong>⇒ OS:</strong> Arch Linux
  ● Kernel v5.10.34
 </p>
-<p><strong>⇒ Shell:</strong> ZSH
+<p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 7 hours, 50 minutes
+<p><strong>⇒ Uptime:</strong> up 8 hours, 36 minutes
 </p>
 <p><strong>⇒ Used Mem:</strong> 2,9Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-05-08 23:13:13</p>
+<p><strong>⇒ Last commit:</strong> 2021-05-08 23:13:50</p>
 
 <hr/>
 
