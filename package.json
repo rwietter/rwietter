@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "readme": "git_repo/readme.md",
+  "author": {
+    "name" : "readme_time",
+    "email" : "rwietter@zohomail.com",
+    "url" : "http://rwietter.netlify.com/"
+  },
+  "repository": {
+    "url": "git@github.com:rwietter/rwietter.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-fetch": "^2.6.1"
+  }
+}
