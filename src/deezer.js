@@ -23,7 +23,7 @@ const fetchDeezerPlaylist = async () => {
 };
 
 const formattingSongs = async (songs) => {
-  const path_repository = path.resolve(__dirname, '..', 'git_repo');
+  const path_repository = path.resolve(__dirname, '..');
   const tracks = songs
     .map(
       (song) =>
@@ -67,7 +67,7 @@ const formattingSongs = async (songs) => {
 }
 
 async function writeSongToFile(data) {
-  const readmePath = path.resolve(__dirname, '..', 'git_repo', 'readme.md');
+  const readmePath = path.resolve(__dirname, '..', 'readme.md');
 
   try {
     const htmlTemplate = await formattingSongs(data);
