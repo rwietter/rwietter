@@ -37,7 +37,6 @@
 </p>
 <p><strong>⇒ Used Mem:</strong> 2,8Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-05-08 23:03:40</p>
 
 <hr/>
 
@@ -89,4 +88,3 @@
   </ol>
 </details>
 <hr/>
-  
