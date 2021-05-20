@@ -3,7 +3,7 @@
 <p></p>
 <hr/>
 <section>
-  <h3>Social media</h3>
+  <h3>Social networks</h3>
   <a href="https://telegram.me/rwietter" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white&link=https://telegram.me/rwietter"/>
   </a>
@@ -31,13 +31,13 @@
 <p><strong>⇒ OS:</strong> Arch Linux
  ● Kernel v5.10.34
 </p>
-<p><strong>⇒ Shell:</strong> SH
+<p><strong>⇒ Shell:</strong> ZSH
 </p>
-<p><strong>⇒ Uptime:</strong> up 1 week, 3 days, 8 hours, 36 minutes
+<p><strong>⇒ Uptime:</strong> up 1 week, 4 days, 6 hours, 25 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 3,4Gi
+<p><strong>⇒ Used Mem:</strong> 4,2Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-05-18 20:00:01</p>
+<p><strong>⇒ Last commit:</strong> 2021-05-19 20:00:01</p>
 
 <hr/>
 

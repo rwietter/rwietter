@@ -6,7 +6,7 @@ const template = (...properties) => {
 <p></p>
 <hr/>
 <section>
-  <h3>Social media</h3>
+  <h3>Social networks</h3>
   <a href="https://telegram.me/rwietter" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white&link=https://telegram.me/rwietter"/>
   </a>
@@ -35,13 +35,17 @@ const template = (...properties) => {
 <p><strong>⇒ Shell:</strong> ${props.shell.toUpperCase()}</p>
 <p><strong>⇒ Uptime:</strong> ${props.uptime}</p>
 <p><strong>⇒ Used Mem:</strong> ${props.usedMem}</p>
-<p><strong>⇒ Last commit:</strong> ${props.lastCommitDate} ${props.lastCommitTime}</p>
+<p><strong>⇒ Last commit:</strong> ${props.lastCommitDate} ${
+    props.lastCommitTime
+  }</p>
 
 <hr/>
 
 <details>
   <summary>
-    <strong id="content"> ♫ Playlist | <span>${props.totalPlaylistTime} min</span> </strong>
+    <strong id="content"> ♫ Playlist | <span>${
+      props.totalPlaylistTime
+    } min</span> </strong>
   </summary><br/>
   <ol>
     ${props.tracks}
