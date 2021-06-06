@@ -33,11 +33,11 @@
 </p>
 <p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 6 days, 21 hours, 27 minutes
+<p><strong>⇒ Uptime:</strong> up 1 week, 21 hours, 27 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 3,3Gi
+<p><strong>⇒ Used Mem:</strong> 4,9Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-06-05 12:00:01</p>
+<p><strong>⇒ Last commit:</strong> 2021-06-05 16:00:01</p>
 
 <hr/>
 
