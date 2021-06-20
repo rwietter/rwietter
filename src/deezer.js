@@ -5,7 +5,8 @@ const file = require('fs');
 const path = require('path');
 
 const { API } = require('./service/api');
-const { template } = require('./view/template')
+const { template } = require('./view/template');
+const { exit } = require('process');
 
 const fetchDeezerPlaylist = async () => {
   const { data: { tracks: { data } } } = await API.get();
@@ -27,7 +28,7 @@ const formattingSongs = async (songs) => {
   const tracks = songs
     .map(
       (song) =>
-        `<li><a href=${song.dzLink}>${(song.dzDuration / 60).toFixed(2)} min ● ${song.dzTitle}</a></li>`
+        `<li><a href=${song.dzLink}>${(song.dzDuration / 60).toFixed(2)} min - ${song.dzTitle}</a></li>`
     )
     .join("\n");
 
@@ -44,7 +45,6 @@ const formattingSongs = async (songs) => {
   
   if (uptimeErr || osErr || commitErr || shellErr || kernelVersionErr || usedMemErr) {
     await exec(`notify-send -a 'Error' 'Error to get shell informations'`);
-
     throw new Error("Error to get shell informations");
   }; 
 
@@ -76,7 +76,7 @@ async function writeSongToFile(data) {
     });
   } catch (error) {
     await exec(`notify-send -a 'Error: ' ${error.message}`);
-    throw new Error(error.message);
+    exit(1);
   }
 }
 

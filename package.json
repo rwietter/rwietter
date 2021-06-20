@@ -1,10 +1,11 @@
 {
   "version": "1.0.0",
+  "license": "MIT",
   "readme": "git_repo/readme.md",
   "author": {
-    "name" : "readme_time",
-    "email" : "rwietter@zohomail.com",
-    "url" : "http://rwietter.netlify.com/"
+    "name": "rwietter",
+    "email": "rwietter@zohomail.com",
+    "url": "http://rwietter.netlify.com/"
   },
   "repository": {
     "url": "git@github.com:rwietter/rwietter.git"
