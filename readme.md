@@ -33,11 +33,11 @@
 </p>
 <p><strong>⇒ Shell:</strong> ZSH
 </p>
-<p><strong>⇒ Uptime:</strong> up 3 days, 8 hours, 28 minutes
+<p><strong>⇒ Uptime:</strong> up 3 days, 8 hours, 31 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 4,4Gi
+<p><strong>⇒ Used Mem:</strong> 4,5Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-06-19 20:00:01</p>
+<p><strong>⇒ Last commit:</strong> 2021-06-19 22:33:33</p>
 
 <hr/>
 
