@@ -29,15 +29,15 @@
 <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
 </div>
 <p><strong>⇒ OS:</strong> Arch Linux
- ● Kernel v5.10.45
+ ● Kernel v5.10.46
 </p>
 <p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 3 days, 1 hour, 2 minutes
+<p><strong>⇒ Uptime:</strong> up 9 hours, 25 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 3,1Gi
+<p><strong>⇒ Used Mem:</strong> 3,7Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-06-29 20:00:01</p>
+<p><strong>⇒ Last commit:</strong> 2021-06-30 16:00:01</p>
 
 <hr/>
 
