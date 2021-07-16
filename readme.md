@@ -31,19 +31,19 @@
 <p><strong>⇒ OS:</strong> Arch Linux
  ● Kernel v5.10.49
 </p>
-<p><strong>⇒ Shell:</strong> ZSH
+<p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 1 day, 1 hour, 36 minutes
+<p><strong>⇒ Uptime:</strong> up 1 day, 6 hours, 6 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 3,7Gi
+<p><strong>⇒ Used Mem:</strong> 5,4Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-07-15 19:28:04</p>
+<p><strong>⇒ Last commit:</strong> 2021-07-15 19:29:21</p>
 
 <hr/>
 
 <details>
   <summary>
-    <strong id="content"> ♫ Playlist | <span>49.30 min</span> </strong>
+    <strong id="content"> ♫ Playlist | <span>59.85 min</span> </strong>
   </summary><br/>
   <ol>
     <li><a href=https://www.deezer.com/track/1076332852>5.00 min - Horizon</a></li>
@@ -55,10 +55,14 @@
 <li><a href=https://www.deezer.com/track/140856305>3.67 min - Scared to Be Lonely</a></li>
 <li><a href=https://www.deezer.com/track/71078033>5.05 min - Animals (Extended)</a></li>
 <li><a href=https://www.deezer.com/track/532182272>3.83 min - High On Life (feat. Bonn)</a></li>
-<li><a href=https://www.deezer.com/track/80121792>4.90 min - Tremor (Sensation 2014 Anthem)</a></li>
 <li><a href=https://www.deezer.com/track/635094532>3.45 min - No Sleep (feat. Bonn)</a></li>
 <li><a href=https://www.deezer.com/track/459401542>3.78 min - Forbidden Voices</a></li>
 <li><a href=https://www.deezer.com/track/417565092>3.63 min - Forever</a></li>
+<li><a href=https://www.deezer.com/track/1283264142>2.28 min - MONTERO (Call Me By Your Name)</a></li>
+<li><a href=https://www.deezer.com/track/908604612>3.33 min - Blinding Lights</a></li>
+<li><a href=https://www.deezer.com/track/1321495602>3.47 min - Kiss Me More (feat. SZA)</a></li>
+<li><a href=https://www.deezer.com/track/1279728532>2.88 min - I WANNA BE YOUR SLAVE</a></li>
+<li><a href=https://www.deezer.com/track/739870792>3.48 min - Dance Monkey</a></li>
   </ol>
 </details>
 <hr/>
