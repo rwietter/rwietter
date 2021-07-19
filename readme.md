@@ -33,11 +33,11 @@
 </p>
 <p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 4 days, 6 minutes
+<p><strong>⇒ Uptime:</strong> up 4 days, 18 hours, 6 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 3,3Gi
+<p><strong>⇒ Used Mem:</strong> 4,4Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-07-18 16:00:02</p>
+<p><strong>⇒ Last commit:</strong> 2021-07-18 20:00:01</p>
 
 <hr/>
 
@@ -46,8 +46,10 @@
     <strong id="content"> ♫ Playlist | <span>66.08 min</span> </strong>
   </summary><br/>
   <ol>
-    <li><a href=https://www.deezer.com/track/1076332852>5.00 min - Horizon</a></li>
+    <li><a href=https://www.deezer.com/track/1120922522>2.72 min - Here With You</a></li>
+<li><a href=https://www.deezer.com/track/1054065902>3.52 min - There For You</a></li>
 <li><a href=https://www.deezer.com/track/972778692>3.43 min - Colour of My Heart</a></li>
+<li><a href=https://www.deezer.com/track/1076332852>5.00 min - Horizon</a></li>
 <li><a href=https://www.deezer.com/track/1102523702>3.88 min - Lost</a></li>
 <li><a href=https://www.deezer.com/track/1197901592>2.20 min - Astronaut In The Ocean</a></li>
 <li><a href=https://www.deezer.com/track/506586282>3.52 min - The Hum</a></li>
@@ -63,8 +65,6 @@
 <li><a href=https://www.deezer.com/track/1321495602>3.47 min - Kiss Me More (feat. SZA)</a></li>
 <li><a href=https://www.deezer.com/track/1279728532>2.88 min - I WANNA BE YOUR SLAVE</a></li>
 <li><a href=https://www.deezer.com/track/739870792>3.48 min - Dance Monkey</a></li>
-<li><a href=https://www.deezer.com/track/1120922522>2.72 min - Here With You</a></li>
-<li><a href=https://www.deezer.com/track/1054065902>3.52 min - There For You</a></li>
   </ol>
 </details>
 <hr/>
