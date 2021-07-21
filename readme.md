@@ -29,21 +29,21 @@
 <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
 </div>
 <p><strong>⇒ OS:</strong> Arch Linux
- ● Kernel v5.10.49
+ ● Kernel v5.10.52
 </p>
 <p><strong>⇒ Shell:</strong> SH
 </p>
-<p><strong>⇒ Uptime:</strong> up 6 days, 6 hours, 6 minutes
+<p><strong>⇒ Uptime:</strong> up 20 minutes
 </p>
-<p><strong>⇒ Used Mem:</strong> 5,0Gi
+<p><strong>⇒ Used Mem:</strong> 1,2Gi
 </p>
-<p><strong>⇒ Last commit:</strong> 2021-07-20 20:00:01</p>
+<p><strong>⇒ Last commit:</strong> 2021-07-21 12:00:01</p>
 
 <hr/>
 
 <details>
   <summary>
-    <strong id="content"> ♫ Playlist | <span>66.08 min</span> </strong>
+    <strong id="content"> ♫ Playlist | <span>57.07 min</span> </strong>
   </summary><br/>
   <ol>
     <li><a href=https://www.deezer.com/track/1120922522>2.72 min - Here With You</a></li>
@@ -51,7 +51,6 @@
 <li><a href=https://www.deezer.com/track/972778692>3.43 min - Colour of My Heart</a></li>
 <li><a href=https://www.deezer.com/track/1076332852>5.00 min - Horizon</a></li>
 <li><a href=https://www.deezer.com/track/1102523702>3.88 min - Lost</a></li>
-<li><a href=https://www.deezer.com/track/1197901592>2.20 min - Astronaut In The Ocean</a></li>
 <li><a href=https://www.deezer.com/track/506586282>3.52 min - The Hum</a></li>
 <li><a href=https://www.deezer.com/track/972037582>2.95 min - Seesaw</a></li>
 <li><a href=https://www.deezer.com/track/140856305>3.67 min - Scared to Be Lonely</a></li>
@@ -61,10 +60,8 @@
 <li><a href=https://www.deezer.com/track/459401542>3.78 min - Forbidden Voices</a></li>
 <li><a href=https://www.deezer.com/track/417565092>3.63 min - Forever</a></li>
 <li><a href=https://www.deezer.com/track/1283264142>2.28 min - MONTERO (Call Me By Your Name)</a></li>
-<li><a href=https://www.deezer.com/track/908604612>3.33 min - Blinding Lights</a></li>
 <li><a href=https://www.deezer.com/track/1321495602>3.47 min - Kiss Me More (feat. SZA)</a></li>
 <li><a href=https://www.deezer.com/track/1279728532>2.88 min - I WANNA BE YOUR SLAVE</a></li>
-<li><a href=https://www.deezer.com/track/739870792>3.48 min - Dance Monkey</a></li>
   </ol>
 </details>
 <hr/>
