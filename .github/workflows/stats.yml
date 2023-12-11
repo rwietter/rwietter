@@ -2,7 +2,7 @@ name: Generate README.md from GitHub profile stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every 24 hours
+    - cron: "0 */12 * * *" # every '12' hours
   push:
     branches:
       - main
@@ -18,6 +18,7 @@ jobs:
         uses: teoxoy/profile-readme-stats@v2
         with:
           token: ${{ secrets.USER_TOKEN }}
+          includeForks: true
       - name: Update README.md
         shell: bash
         run: |
