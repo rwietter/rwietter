@@ -31,7 +31,7 @@ Top most used languages across my projects:
     <summary> More Stats </summary>
       <img width="49.8%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
       <img width="49.6%"alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
-      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=12&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
+      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=8&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
   </details>
 
 <hr />
