@@ -1,6 +1,6 @@
 <!-- <img align="left" src="https://orhun.dev/img/crow.png"> -->
 
-### Hey!
+### Hey there!
 
 I'm **Maurício Witter**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
 
@@ -8,9 +8,20 @@ I'm **Maurício Witter**, a Rust aficionado with a strong passion for all things
 
 <br>
 
-Ever since I joined GitHub **4** years ago, I pushed **4002** commits, opened **15** issues, submitted **160** pull requests, received **36** stars across **60** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **4004** commits, opened **15** issues, submitted **160** pull requests, received **36** stars across **60** personal projects, and contributed to **8** public repositories.
 
 Here is a list of my **projects**:
+
+Top 8 most used languages across my projects:
+
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B177.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B15%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B14.1%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B12.9%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B12.6%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11.6%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B11.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.4%25)
 
 <!-- Run `ssh git.orhun.dev` to browse my repositories on your terminal. -->
 
