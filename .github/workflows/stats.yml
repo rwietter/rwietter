@@ -1,0 +1,30 @@
+name: Generate README.md from GitHub profile stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every 24 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Fetch GitHub profile data
+        uses: teoxoy/profile-readme-stats@v2
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+      - name: Update README.md
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add *.md
+            git commit -m "Update README.md"
+            git push
+          fi
