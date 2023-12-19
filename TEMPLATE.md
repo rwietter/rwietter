@@ -10,7 +10,8 @@ My main abilities include designing APIs, command-line interface, applying softw
 
 Currently I have been studying Distributed Systems, concepts such as consensus, micro-services, pervasive computing, observability and open-telemetry.
 
-[![pgp](https://img.shields.io/badge/gpg-2F4A8C59535F3EDA-313131?style=flat&labelColor=545454&color=313131)](https://github.com/rwietter.gpg) [![views](https://komarev.com/ghpvc/?username=rwietter&style=flat&color=313131&label=views)](https://github.com/rwietter)
+[![pgp](https://img.shields.io/badge/gpg-2F4A8C59535F3EDA-313131?style=flat&labelColor=545454&color=313131)](https://github.com/rwietter.gpg) [![views](https://komarev.com/ghpvc/?username=rwietter&style=flat&color=313131&label=views)](https://github.com/rwietter) [![wakatime](https://wakatime.com/badge/user/6a826599-f069-465f-81bf-4438e4f54426.svg?style=flat-square)](https://wakatime.com/@6a826599-f069-465f-81bf-4438e4f54426?style=for-the-badge)
+
 
 <br>
 
