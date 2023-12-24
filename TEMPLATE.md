@@ -22,7 +22,7 @@ Here is a list of my **projects**:
 Top most used languages across my projects:
 
 <div>
-    <img width="44.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=4&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
+    <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=10"/>
     <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
 </div>
 
@@ -30,9 +30,8 @@ Top most used languages across my projects:
 
   <details closed>
     <summary> More Stats </summary>
-      <img width="49.8%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
-      <img width="49.6%"alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
-      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=8&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
+      <img width="100%"alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
+      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=15&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
   </details>
 
 <hr />
