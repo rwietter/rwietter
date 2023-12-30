@@ -15,7 +15,7 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 
 <br>
 
-Ever since I joined GitHub **4** years ago, I pushed **2711** commits, opened **15** issues, submitted **168** pull requests, received **38** stars across **65** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **2713** commits, opened **15** issues, submitted **168** pull requests, received **38** stars across **65** personal projects, and contributed to **8** public repositories.
 
 Here is a list of my **projects**:
 
