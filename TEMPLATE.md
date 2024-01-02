@@ -22,8 +22,8 @@ Here is a list of my **projects**:
 Top most used languages across my projects:
 
 <div>
-    <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=10"/>
-    <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
+    <img width="55%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=6"/>
+    <img width="44%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
 </div>
 
 <hr />
