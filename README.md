@@ -15,7 +15,7 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 
 <br>
 
-Ever since I joined GitHub **5** years ago, I pushed **2432** commits, opened **14** issues, submitted **171** pull requests, received **39** stars across **64** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **2433** commits, opened **14** issues, submitted **172** pull requests, received **39** stars across **64** personal projects, and contributed to **9** public repositories.
 
 Here is a list of my **projects**:
 
@@ -31,7 +31,7 @@ Top most used languages across my projects:
   <details closed>
     <summary> More Stats </summary>
       <img width="100%"alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
-      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=15&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
+      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=15&layout=compact&exclude_repo=dotfiles,blog-posts,bspwm-dotfiles,polybar-dotfiles"/>
   </details>
 
 <hr />
