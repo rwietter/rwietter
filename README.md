@@ -15,9 +15,28 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 
 <br>
 
-Ever since I joined GitHub **5** years ago, I pushed **2519** commits, opened **14** issues, submitted **172** pull requests, received **39** stars across **64** personal projects, and contributed to **9** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **2524** commits, opened **14** issues, submitted **174** pull requests, received **39** stars across **64** personal projects, and contributed to **9** public repositories.
 
-Here is a list of my **projects**:
+Here is a list of some of my **open-source projects**:
+
+| Name                                                                         | Description                                                                               |
+| :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| [Illusion Vscode](https://github.com/rwietter/illusion-vscode-theme)         | A dark theme for VSCode                                                                   |
+| [Fish Abbreviation Tips](https://github.com/rwietter/fish-abbreviation-tips) | Fork of fish abbreviation tips to add some features and fix some bugs                     |
+| [Findit](https://github.com/rwietter/findit)                                 | A command-line tool to advanced search in your favorite search engine                     |
+| [Illusion Spicetify](https://github.com/rwietter/illusion-spicetify)         | A dark theme for Spotify                                                                  |
+| [Breview](https://github.com/rwietter/breview)                               | A desktop application to navigate and show your bookmarks in a pretty way like mega.nz    |
+| [Cnpj-ws](https://github.com/rwietter/cnpj-ws)                               | Fork of cnpj-ws to add some features                                                      |
+| [My Blog](https://github.com/rwietter/rwietter.xyz)                          | Static website that uses TS/Next.js and ISR (Incremental Static Regeneration) and GraphQL |
+| [Exterm](https://github.com/rwietter/exterm-vscode)                          | Extension for VSCode to open directories in the external terminal                         |
+| [Jhonny](https://github.com/rwietter/jhonny)                                 | A website for a musician and composer                                                     |
+| [Covid-Insights](https://github.com/rwietter/covid-19-insights)              | Pretty charts and insights about the Covid-19 pandemic in Brazil                          |
+| [Telegram Space Picture](https://github.com/rwietter/telegram-space-today)   | Bot to send the space picture of the day from NASA to your Telegram chat                  |
+| [Dotfiles](https://github.com/rwietter/dotfiles)                             | My Arch/Awesome WM dotfiles                                                               |
+
+For other projects, check out my [GitHub profile](https://github.com/rwietter?tab=repositories).
+
+---
 
 Top most used languages across my projects:
 
