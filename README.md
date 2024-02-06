@@ -15,7 +15,7 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 
 <br>
 
-Ever since I joined GitHub **5** years ago, I pushed **2604** commits, opened **14** issues, submitted **182** pull requests, received **39** stars across **65** personal projects, and contributed to **9** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **2625** commits, opened **14** issues, submitted **186** pull requests, received **39** stars across **65** personal projects, and contributed to **10** public repositories.
 
 Here is a list of some of my **open-source projects**:
 
@@ -41,17 +41,12 @@ For other projects, check out my [GitHub profile](https://github.com/rwietter?ta
 Top most used languages across my projects:
 
 <div>
-    <img width="55%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=6"/>
-    <img width="44%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
+    <img width="47%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
+    <img width="51%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
+    <img width="60%"alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=6"/>
+    <img width="36.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=6&layout=compact&exclude_repo=dotfiles,blog-posts,bspwm-dotfiles,polybar-dotfiles"/>
 </div>
 
-<hr />
-
-  <details closed>
-    <summary> More Stats </summary>
-      <img width="100%"alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
-      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=15&layout=compact&exclude_repo=dotfiles,blog-posts,bspwm-dotfiles,polybar-dotfiles"/>
-  </details>
 
 <hr />
 
