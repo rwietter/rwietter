@@ -15,7 +15,7 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 
 <br>
 
-Ever since I joined GitHub **5** years ago, I pushed **3127** commits, opened **14** issues, submitted **194** pull requests, received **39** stars across **67** personal projects, and contributed to **11** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **3128** commits, opened **14** issues, submitted **194** pull requests, received **39** stars across **67** personal projects, and contributed to **11** public repositories.
 
 Here is a list of some of my **open-source projects**:
 
@@ -35,18 +35,6 @@ Here is a list of some of my **open-source projects**:
 | [Dotfiles](https://github.com/rwietter/dotfiles)                             | My Arch/Awesome WM dotfiles                                                               |
 
 For other projects, check out my [GitHub profile](https://github.com/rwietter?tab=repositories).
-
----
-
-Top most used languages across my projects:
-
-<div>
-    <img width="47%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
-    <img width="51%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
-    <img width="60%"alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=6&v=2"/>
-    <img width="36.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=6&layout=compact&exclude_repo=dotfiles,blog-posts,bspwm-dotfiles,polybar-dotfiles"/>
-</div>
-
 
 <hr />
 
