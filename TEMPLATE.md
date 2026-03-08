@@ -13,28 +13,7 @@ Currently I have been studying Distributed Systems, concepts such as consensus, 
 [![pgp](https://img.shields.io/badge/gpg-2F4A8C59535F3EDA-313131?style=flat&labelColor=545454&color=313131)](https://github.com/rwietter.gpg) [![views](https://komarev.com/ghpvc/?username=rwietter&style=flat&color=313131&label=views)](https://github.com/rwietter) [![wakatime](https://wakatime.com/badge/user/6a826599-f069-465f-81bf-4438e4f54426.svg?style=flat-square)](https://wakatime.com/@6a826599-f069-465f-81bf-4438e4f54426?style=for-the-badge)
 
 
-<br>
-
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
-Here is a list of some of my **open-source projects**:
-
-| Name                                                                         | Description                                                                               |
-| :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [Illusion Vscode](https://github.com/rwietter/illusion-vscode-theme)         | A dark theme for VSCode                                                                   |
-| [Fish Abbreviation Tips](https://github.com/rwietter/fish-abbreviation-tips) | Fork of fish abbreviation tips to add some features and fix some bugs                     |
-| [Findit](https://github.com/rwietter/findit)                                 | A command-line tool to advanced search in your favorite search engine                     |
-| [Illusion Spicetify](https://github.com/rwietter/illusion-spicetify)         | A dark theme for Spotify                                                                  |
-| [Breview](https://github.com/rwietter/breview)                               | A desktop application to navigate and show your bookmarks in a pretty way like mega.nz    |
-| [Cnpj-ws](https://github.com/rwietter/cnpj-ws)                               | Fork of cnpj-ws to add some features                                                      |
-| [My Blog](https://github.com/rwietter/rwietter.xyz)                          | Static website that uses TS/Next.js and ISR (Incremental Static Regeneration) and GraphQL |
-| [Exterm](https://github.com/rwietter/exterm-vscode)                          | Extension for VSCode to open directories in the external terminal                         |
-| [Jhonny](https://github.com/rwietter/jhonny)                                 | A website for a musician and composer                                                     |
-| [Covid-Insights](https://github.com/rwietter/covid-19-insights)              | Pretty charts and insights about the Covid-19 pandemic in Brazil                          |
-| [Telegram Space Picture](https://github.com/rwietter/telegram-space-today)   | Bot to send the space picture of the day from NASA to your Telegram chat                  |
-| [Dotfiles](https://github.com/rwietter/dotfiles)                             | My Arch/Awesome WM dotfiles                                                               |
-
-For other projects, check out my [GitHub profile](https://github.com/rwietter?tab=repositories).
 
 <hr />
 
